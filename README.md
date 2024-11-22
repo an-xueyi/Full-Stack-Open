@@ -1,2 +1,2 @@
-# Full-Stack-Open
-Exercises for Full Stack Open course.
+# Full-Stack-open
+Exercises for Full Stack open course.
